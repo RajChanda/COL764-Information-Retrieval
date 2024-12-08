@@ -1,0 +1,9 @@
+hidden_layer_sizes : 
+  1 : 100
+  2 : 100
+activation : 'tanh'
+solver : 'adam'
+alpha : 0.01
+learning_rate_init : 0.001
+max_iter : 1500
+random_state : 79

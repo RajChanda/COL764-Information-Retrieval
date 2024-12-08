@@ -1,0 +1,9 @@
+hidden_layer_sizes : 
+  1 : 100
+  2 : 50
+activation : 'relu'
+solver : 'adam'
+alpha : 0.001
+learning_rate_init : 0.01
+max_iter : 1000
+random_state : 74
